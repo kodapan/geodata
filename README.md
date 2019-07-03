@@ -34,6 +34,33 @@ Län (polygoner och kontaktinformation) klippta längst kustlinjer som GeoJSON: 
 * 309 öar och halvöar
 * Ytterligare drygt 500 namngivna punkter av diverse slag
 
+Datamängden är primärt kalkerad efter Lantmäteriets översiktskarta i 1:700 000-1:350 000 från 1994, dvs information som sedan 2009 räknas till allmän egendom enligt det s.k. katalogskyddet 49§ i lag 1960:729.
+
+Koordinaterna är uträknade från en manuell rektifiering av ovan nämnda karta och är därför på inget sätt exakta. Det är således möjligt, även om mindre sannolikt, att enstaka koordinater sitter flera kilometer fel.
+
+Delmängder data härstammar från eller är förädlingar av samkörning mot EUs vattenterritorialgränser, Statistiska centralbyrån, Postnummeruppror, WikiData, manuellt utmätta från äldre kartböcker, samt ett antal uppslag mot andra helt licensfria eller CC0-licensierade datakällor.
+
+Datasamlingen släpps under den öppna och fria CC0 i CreativeCommons-familjen av licenser, dvs helt utan restriktioner.
+
+Till skillnad från s.k. BY-licenser är det inga krav på källhänvisning och till skillnad från s.k. SA-licenser är det ingen begränsning på hur du får återpublicera rådatan eller förädlade produkter.
+
+För att ta extremfallet är det tillåtet att sälja denna datasamling till tredje part utan att på något sätt referera till orginalkällan och dessutom ställa krav på hur den tredje parten använder eller återpublicerar data.
+
+# Varför?
+Man kan ganska enkelt tänka sig att det skulle bli besvärligt för företagare i Sverige om Trafikverket ställde krav på att varor märks med vilka vägar de fraktats längst, samt alla vägar där man fraktat de saker och personer som på något sätt ligger bakom produktionen av varorna.
+
+Mjölkkartonger skulle inte vara stora nog för få plats med all information om vilka vägar mjölkpaket fraktats till butiker, vägar mjölktankbilen åkt mellan stall och mejeri, vägar kornas mat kom till stallet, vägar mjölktankarna i stallet fraktats dit på från gjuteriet, vägar metallen till mjölktankarna åkte från gruvan till gjuteriet, vägar dynamiten i gruvan fraktades på från kemiföretaget, vägar alla anställda på kemiföretaget körde bil till jobbet, vägar alla bilproducenternas anställda körde till jobbet för att kunna bygga kemiföretagets anställdas bilar, och så vidare i all oändlighet.
+
+Det är naturligtvis fullständigt orimligt att ställa sådana krav.
+
+Tyvärr är det precis så orimliga krav man ställer för dem som vill förädla stora datamängder från många källor vid släpp av öppna data med BY- och SA-licenser. Komplexiteten för att skriva mjukvara och hantera datamänger blir ohanterlig.
+
+Om Sveriges företagare skall fortsätta vara duktiga och innovativa inom informationsteknologi kan vi inte ställa så kontraproduktiva krav på öppna data. Sanningen är att vi redan ligger långt efter på den här fronten. Det är därför som denna datasamling släpps.
+
+De i behov av geodata men som inte har några problem med BY- och SA-licenser hänvisas till OpenStreetMap, vars data är mycket mer precis, detaljerad och uppdaterad.
+
+För mer information kontakta banan@kodapan.se.
+
 
 Prova gärna Kodapans öppna (ASL2) Java GIS-API för OpenStreetMap vid arbete med datasamlingen.
 Ytterligare ramverk och verktyg återfinnes på OpenStreetMaps hemsida.
