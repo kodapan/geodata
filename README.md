@@ -18,11 +18,27 @@ Kommuner (polygoner och kontaktinformation) klippta längst kustlinjer som GeoJS
 Län (polygoner och kontaktinformation) som GeoJSON: laen.geo.json 
 Län (polygoner och kontaktinformation) klippta längst kustlinjer som GeoJSON: laen-kustlinjer.geo.json 
 
+# Innehåll
+
+* Territorialgränser
+* Länsgränser
+* Kommungränser
+* Ungefärliga mittpunkten till knappt 11 500 namngivna platser:
+* Alla SCBs 1956 tätorter
+* 1058 av SCBs 2920 småorter
+* 3000 ytterligare orter
+* 1357 församlingskyrkor
+* 434 slott och herrgårdar
+* 856 berg och lokala höjder
+* 1513 sjöar och vattendrag
+* 309 öar och halvöar
+* Ytterligare drygt 500 namngivna punkter av diverse slag
+
 
 Prova gärna Kodapans öppna (ASL2) Java GIS-API för OpenStreetMap vid arbete med datasamlingen.
 Ytterligare ramverk och verktyg återfinnes på OpenStreetMaps hemsida.
 
-Exempelutdrag från datasamlingen
+# Exempelutdrag från datasamlingen
 
     …
     <tag k='admin_level' v='2' />
