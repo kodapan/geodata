@@ -62,8 +62,9 @@ De i behov av geodata men som inte har några problem med BY- och SA-licenser h�
 För mer information kontakta banan@kodapan.se.
 
 
-Prova gärna Kodapans öppna (ASL2) Java GIS-API för OpenStreetMap vid arbete med datasamlingen.
-Ytterligare ramverk och verktyg återfinnes på OpenStreetMaps hemsida.
+Prova gärna Kodapans öppna (ASL2) Java GIS-API för OpenStreetMap vid arbete med datasamlingen. https://github.com/kodapan/osm-common
+
+Ytterligare ramverk och verktyg återfinnes på OpenStreetMaps hemsida. http://wiki.openstreetmap.org/wiki/Frameworks
 
 # Exempelutdrag från datasamlingen
 
