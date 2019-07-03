@@ -8,15 +8,15 @@ Lagringsformatet är s.k. OSM XML, den standard som tagits fram för OpenStreetM
 Datasamlingen senaste uppdaterad: 2015-06-25
 
 # Filer
-Territorial-, län- och kommungränser som OSM-XML: graenser.osm.xml 
-Alla namngivna platser, inklusive tätorter som OSM-XML: osm.xml 
-Enbart tätorter som OSM-XML: taetorter.osm.xml 
+* Territorial-, län- och kommungränser som OSM-XML: graenser.osm.xml 
+* Alla namngivna platser, inklusive tätorter som OSM-XML: osm.xml 
+* Enbart tätorter som OSM-XML: taetorter.osm.xml 
 
 # GeoJSON-derivat
-Kommuner (polygoner och kontaktinformation) som GeoJSON: kommuner.geo.json 
-Kommuner (polygoner och kontaktinformation) klippta längst kustlinjer som GeoJSON: kommuner-kustlinjer.geo.json 
-Län (polygoner och kontaktinformation) som GeoJSON: laen.geo.json 
-Län (polygoner och kontaktinformation) klippta längst kustlinjer som GeoJSON: laen-kustlinjer.geo.json 
+* Kommuner (polygoner och kontaktinformation) som GeoJSON: kommuner.geo.json 
+* Kommuner (polygoner och kontaktinformation) klippta längst kustlinjer som GeoJSON: kommuner-kustlinjer.geo.json 
+* Län (polygoner och kontaktinformation) som GeoJSON: laen.geo.json 
+* Län (polygoner och kontaktinformation) klippta längst kustlinjer som GeoJSON: laen-kustlinjer.geo.json 
 
 # Innehåll
 
