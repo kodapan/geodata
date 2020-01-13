@@ -5,7 +5,7 @@ All geografisk rådata länkat till från denna sida är allmän egendom i enigh
 
 Lagringsformatet är s.k. OSM XML, den standard som tagits fram för OpenStreetMap. All metadata följer eller är snarlik de standarder som tagits fram av OpenStreetMap. Fel existerar helt säkert i datamängden och metadatstrukturen komer troligen därför genomgå framtida förändringar. Entitetsidentiteter kommer med all säkerhet ändras i framtida datasläpp, så förlita er i stället på unika nycklar som exempelvis tätortskoder.
 
-Datasamlingen senaste uppdaterad: 2015-06-25
+Datasamlingen senast uppdaterad: 2015-06-25
 
 # Filer
 * Territorial-, län- och kommungränser som OSM-XML: graenser.osm.xml 
